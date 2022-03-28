@@ -11,7 +11,6 @@
   inputs.src-prettyclr-main.ref   = "refs/heads/main";
   inputs.src-prettyclr-main.owner = "prettybauble";
   inputs.src-prettyclr-main.repo  = "prettyclr";
-  inputs.src-prettyclr-main.dir   = "";
   inputs.src-prettyclr-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
