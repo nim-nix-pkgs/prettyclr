@@ -45,11 +45,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1658018190,
-        "narHash": "sha256-iWJoMFZedTj+AMfXvV6sMoD8lB75Bckku4pOlyM956E=",
+        "lastModified": 1658032139,
+        "narHash": "sha256-tiFmYYAwXVYAgm1MwSJRi9Q9GIPzunl2tIpZvlwXhO8=",
         "owner": "nim-nix-pkgs",
         "repo": "prettyclr",
-        "rev": "a8e413a8ec423c0ccc9d14041e5095e759f6af83",
+        "rev": "332cd7e22081879b0c7bff6fcfda1f3415f1fb01",
         "type": "github"
       },
       "original": {
